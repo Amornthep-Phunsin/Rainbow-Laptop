@@ -1,6 +1,7 @@
 # "Rainbow Laptop"
 
 Typing Test
+Hello World
 
 "Rainbow Laptop" is a "One Laptop per Child (OLPC)"project based on Raspberry Pi platform.
 
